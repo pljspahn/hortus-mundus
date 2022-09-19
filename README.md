@@ -1,6 +1,6 @@
 # hortus-mundus
 
-This project aims to develop digital plant models for the flora of the world. 
+This project aims to develop digital plant models for the flora of the world. The name is taken from the Latin word for garden, hortus, and the Latin word for world, mundus and is inspired by the work of Basilius Besler (1561-1629) who published the codex Hortus Eystettensis in 1613.
 
 A draft list of fields to record for each model:
 - Common name(s)
@@ -15,6 +15,7 @@ A draft list of fields to record for each model:
 - Distribution map
 - Species Distribution Model (a predictive distribution map of where the plant may be suitable to grow)
 - Plant Community (relational field for other plants that grow as part of the same local system)
+- And many more ...
 
 ## Goals
 
@@ -27,4 +28,8 @@ The secondary goal of this project is to create a community of plant enthusiasts
 We are looking for people who are interested in contributing to this project. If you are interested in contributing, please join us in Github discussions for the project found at [www.github.com/pljspahn/hortus-mundus/discussions](www.github.com/pljspahn/hortus-mundus/discussions).
 
 
+## Status
 
+This project is in its infancy. We are currently working on the initial database schema and API design. We are also working on a web application to allow users to contribute to the project. 
+
+Initially, a single plant model will be developed to use as a template for additional entries going forward. This plant has not yet been chosen. 
