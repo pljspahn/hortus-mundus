@@ -27,7 +27,6 @@ The secondary goal of this project is to create a community of plant enthusiasts
 
 We are looking for people who are interested in contributing to this project. If you are interested in contributing, please join us in Github discussions for the project found at [www.github.com/pljspahn/hortus-mundus/discussions](www.github.com/pljspahn/hortus-mundus/discussions).
 
-
 ## Status
 
 This project is in its infancy. We are currently working on the initial database schema and API design. We are also working on a web application to allow users to contribute to the project. 
