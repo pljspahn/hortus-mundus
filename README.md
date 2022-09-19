@@ -15,3 +15,8 @@ A draft list of fields to record for each model:
 - Distribution map
 - Species Distribution Model (a predictive distribution map of where the plant may be suitable to grow)
 - Plant Community (relational field for other plants that grow as part of the same local system)
+
+## Structure
+
+The product is divided into:
+
